@@ -29,6 +29,7 @@ Todo fue desarrollado sin frameworks, únicamente con **HTML y CSS puro**, como 
 ```
 PracticaCSS/
 ├── index.html      # Página principal
+└── img/  # Imagenes utilizadas
 └── css/
     └── style.css   # Hojas de estilo personalizadas
 ```
