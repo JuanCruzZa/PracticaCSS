@@ -4,7 +4,7 @@ Este proyecto surge como parte del curso de **Desarrollador Fullstack** que esto
 
 ---
 
-## 🧠 ¿Qué aprendí y apliqué?
+## 🧠 ¿Qué aprendí y apliqué?https://github.com/JuanCruzZa/PracticaCSS/blob/main/README.md
 
 ### 📄 Estructura HTML
 - Usé la misma estructura `<head>` que la página original.
@@ -36,7 +36,7 @@ PracticaCSS/
 ---
 
 ## 🚀 Emocionado por ver que es lo que sigue!
-
+-Las clases continúan y en la siguiente aprenderé a centrar el texto para que sea mucho más estético ya que a mi criterio aún deja mucho que desear
 ---
 
 ## 📌 Notas finales
