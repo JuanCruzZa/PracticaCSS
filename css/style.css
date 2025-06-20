@@ -1,0 +1,29 @@
+
+.background{
+    color: white;
+    background-color: rgb(51, 51, 162);
+}
+
+.backgroundhero{
+    background-image: url(../img/pexels-danny-meneses-340146-943096.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+}
+
+h2{
+    color: whitesmoke;
+    background-color: rgba(128, 128, 128, 0.321);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+h3{
+    color: rgb(12, 12, 125);
+}
+
+.secciones{
+    background-color: rgba(128, 128, 128, 0.321);
+    border-radius: 5px;
+}
