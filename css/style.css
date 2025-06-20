@@ -9,6 +9,10 @@
     background-color: rgb(51, 51, 162);
 }
 
+nav a{
+    color: white;
+    text-decoration: none;
+}
 .backgroundhero{
     background-image: url(../img/pexels-danny-meneses-340146-943096.jpg);
     background-repeat: no-repeat;
@@ -23,6 +27,8 @@ h2{
     background-color: rgba(128, 128, 128, 0.321);
     border-radius: 5px;
     padding: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 h3{
@@ -31,7 +37,11 @@ h3{
 
 .secciones{
     background-color: rgba(128, 128, 128, 0.321);
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 10px;
+    padding: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
     text-align: center;
 }
