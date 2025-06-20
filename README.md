@@ -37,7 +37,7 @@ PracticaCSS/
 ---
 
 ## 🚀 Emocionado por ver que es lo que sigue!
--Las clases continúan y en la siguiente aprenderé a centrar el texto para que sea mucho más estético ya que a mi criterio aún deja mucho que desear
+- Las clases continúan y en la siguiente aprenderé a centrar el texto para que sea mucho más estético ya que a mi criterio aún deja mucho que desear
 ---
 
 ## 📌 Notas finales
