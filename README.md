@@ -4,7 +4,7 @@ Este proyecto surge como parte del curso de **Desarrollador Fullstack** que esto
 
 ---
 
-## 🧠 ¿Qué aprendí y apliqué?https://github.com/JuanCruzZa/PracticaCSS/blob/main/README.md
+## 🧠 ¿Qué aprendí y apliqué?
 
 ### 📄 Estructura HTML
 - Usé la misma estructura `<head>` que la página original.
